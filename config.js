@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['231775928537', '𝘾𝞖𝞒𝞘𝙎𝙏𝞘𝞓𝞜🤡', true], 
-  ['231888528059', '¢няιѕ', true],
+  ['263712218390', 'Savage', true], 
+  ['263779694908', 'Savage', true],
    
   
   
@@ -17,11 +17,11 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['231775928537', '231888528059'
-global.prems = ['231775928537', '231888528059' 
+global.mods = ['263712218390', '263779694908'
+global.prems = ['263712218390', '263779694908' 
 
              
-global.allowed = ['231775928537', '231888528059']
+global.allowed = ['26372218390', '263779694908']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -58,14 +58,14 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = ''XLICON-V2'
 global.premium = 'true'
-global.packname = 'Chris' 
+global.packname = 'Savage' 
 global.author = '@XLICON-V2' 
 global.menuvid = 'https://i.imgur.com/vhKqPj9.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/DltVVODKSGEBnIrTRfsbGf'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
+global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaNsS83DeONBXKb4TG2j\n' 
+global.dygp = 'https://chat.whatsapp.com/Kvd0jljMllM6bLJ1Bkjxtv'
+global.fgsc = 'https://github.com/Prince1O0/XLICON-V2-MD' 
+global.fgyt = 'https://youtube.com/@KiddJuice263'
+global.fgpyp = 'https://youtube.com/@KiddJuice263'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
